@@ -1,0 +1,11 @@
+Diplomados Online ----
+Campus
+CRM ----
+SISGA ----
+Moodle
+Reto500K
+DolScan ----
+
+Agregar que soy mentor
+
+de este proyecto necesito que me generes un arhcivo md donde identifiques roles, funcionalidad por cada rol y patrones de diseño ok, todo detallado
