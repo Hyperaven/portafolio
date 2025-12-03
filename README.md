@@ -7,7 +7,7 @@
 <!-- Badges de Estado -->
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Available](https://img.shields.io/badge/Available_for_Hire-Yes-brightgreen?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://jefersondun.free.nf/)
 
 <!-- Badges de Tecnologías Principales -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -187,7 +187,7 @@ Plataforma de gestión educativa con arquitectura MVC propia.
 - **Email:** [jefersonint25@gmail.com](mailto:jefersonint25@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jefersondun](https://linkedin.com/in/jefersondun)
 - **GitHub:** [github.com/jeffd2599](https://github.com/jeffd2599)
-- **Portfolio:** [Ver Portfolio Completo](index.html)
+- **Portfolio:** [🌐 jefersondun.free.nf](https://jefersondun.free.nf/)
 
 ---
 
