@@ -1,6 +1,30 @@
 # 👨‍💻 Jeferson Dun - Portfolio Profesional
 
+<div align="center">
+
 ![Portfolio Preview](img/readme-banner.png)
+
+<!-- Badges de Estado -->
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Available](https://img.shields.io/badge/Available_for_Hire-Yes-brightgreen?style=for-the-badge)
+![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)
+
+<!-- Badges de Tecnologías Principales -->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- Badges de Contacto -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefersondun)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeffd2599)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jefersonint25@gmail.com)
+
+</div>
+
+---
 
 ## 🌟 Sobre Mí
 
